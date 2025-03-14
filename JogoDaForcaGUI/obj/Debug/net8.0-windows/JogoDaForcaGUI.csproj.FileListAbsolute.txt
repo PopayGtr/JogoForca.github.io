@@ -1,0 +1,48 @@
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.exe
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.deps.json
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.runtimeconfig.json
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.dll
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.pdb
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.Form1.resources
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.csproj.GenerateResource.cache
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.AssemblyInfoInputs.cache
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.AssemblyInfo.cs
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.csproj.CoreCompileInputs.cache
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.dll
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\refint\JogoDaForcaGUI.dll
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.pdb
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.genruntimeconfig.cache
+C:\Users\xgame\OneDrive\Documentos\JOGO DA FORCA IA\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\ref\JogoDaForcaGUI.dll
+E:\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.exe
+E:\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.deps.json
+E:\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.runtimeconfig.json
+E:\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.dll
+E:\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.pdb
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.Form1.resources
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.csproj.GenerateResource.cache
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.AssemblyInfoInputs.cache
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.AssemblyInfo.cs
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.csproj.CoreCompileInputs.cache
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.dll
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\refint\JogoDaForcaGUI.dll
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.pdb
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.genruntimeconfig.cache
+E:\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\ref\JogoDaForcaGUI.dll
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.exe
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.deps.json
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.runtimeconfig.json
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.dll
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\bin\Debug\net8.0-windows\JogoDaForcaGUI.pdb
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.Form1.resources
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.csproj.GenerateResource.cache
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.GeneratedMSBuildEditorConfig.editorconfig
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.AssemblyInfoInputs.cache
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.AssemblyInfo.cs
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.csproj.CoreCompileInputs.cache
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.dll
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\refint\JogoDaForcaGUI.dll
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.pdb
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\JogoDaForcaGUI.genruntimeconfig.cache
+I:\INFO-09\Claudiney\JogoDaForcaGUI\JogoDaForcaGUI\obj\Debug\net8.0-windows\ref\JogoDaForcaGUI.dll
